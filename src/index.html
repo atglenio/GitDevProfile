@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dev profile</title>
+  <link rel="stylesheet" href="./style/liststyle.css">
+</head>
+<body>
+  <header>
+    <h1>Git Developers</h1>
+      <div class="searchBox">
+        <input id='search_user'class="searchInput" type="text" placeholder="Search"/>
+        <button class="searchButton" onclick="handleSearch()" >
+            <i class="material-icons">
+               <img  class="icon_search" src="../assets/search-icon.svg"></img>
+            </i>
+        </button>
+      </div>
+  </header>
+
+  <div id="users_list"></div>
+
+
+
+  <script src ="scripts/jquery-3.6.0.js"></script>
+  <script src ="scripts/loader.js"></script>
+  <script src ="scripts/script_main.js"></script>
+  <script src ="scripts/script_popup.js"></script>
+  <script src ="scripts/script_search.js"></script>
+
+</body>
+
+</html>
