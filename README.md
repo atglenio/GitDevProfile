@@ -9,15 +9,13 @@ One of my Uni project required to use jquery. The webpage demonstrate as such:
 - Search users base on their username.
 
 ![](header.png)
-e
-
 
 ## To run this project
 
 ```
 git clone https://github.com/atglenio/GitDevProfile/
 ```
-open index.js
+run index.js
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
