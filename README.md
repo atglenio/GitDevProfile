@@ -15,7 +15,7 @@ One of my Uni project required to use jquery. The webpage demonstrate as such:
 ```
 git clone https://github.com/atglenio/GitDevProfile/
 ```
-run index.js
+run index.html
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
